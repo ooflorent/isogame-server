@@ -1,0 +1,12 @@
+{
+  "name": "isogame-server",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "co-body": "0.0.1",
+    "koa": "~0.5.5",
+    "koa-route": "~1.1.2",
+    "koa-session": "~2.0.0",
+    "ws": "~0.4.31"
+  }
+}

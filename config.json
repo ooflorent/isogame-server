@@ -1,0 +1,9 @@
+{
+  "server": {
+    "port": 3000
+  },
+  "paths": {
+    "client": "../isogame/dist",
+    "maps": "./data/maps"
+  }
+}
